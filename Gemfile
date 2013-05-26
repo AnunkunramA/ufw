@@ -10,6 +10,9 @@ gem 'rails', '3.2.12'
 # when postgres sql is working (Heroku), uncomment the gem requirement
 gem 'pg'
 
+# posts can use tags
+gem 'rocket_tag'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
