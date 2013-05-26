@@ -1,0 +1,112 @@
+
+	 
+/*  resets  */	 
+
+html, body, div, span, applet, object, iframe, 
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, 
+abbr, acronym, address, big, button, cite, code, del, 
+dfn, em, font, img, ins, kbd, q, s, samp, 
+small, strike, strong, sub, sup, tt, var, 
+b, u, i, center, dl, dt, dd, ol, ul, li, 
+fieldset, form, label, legend, table, caption, 
+tbody, tfoot, thead, tr, th, td {
+  background-attachment: initial;
+  background-clip: initial;
+  background-color: transparent;
+  background-image: initial;
+  background-origin: initial;
+  background-position: initial initial;
+  background-repeat: initial initial;
+  border-bottom-width: 0;
+  border-color: initial;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-style: initial;
+  border-top-width: 0;
+  font-size: 100%;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  outline-color: initial;
+  outline-style: initial;
+  outline-width: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  vertical-align: baseline;
+	
+}
+
+body, html {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+
+div {
+	display: block;
+}
+
+ul {
+	list-style-type: disc;
+}
+
+table {
+  -webkit-border-horizontal-spacing: 0;
+  -webkit-border-vertical-spacing: 0;
+  border-collapse: collapse;
+}
+
+input {
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+
+input[type="button"] {
+	cursor: pointer;
+	border: 0px solid #ffffff;
+}
+
+.clearit {
+	clear:both;
+  font-size:0 !important;
+  height:0 !important;
+  line-height:0 !important;
+  margin-bottom:0 !important;
+  margin-left:0 !important;
+  margin-right:0 !important;
+  margin-top:0 !important;
+  padding-bottom:0 !important;
+  padding-left:0 !important;
+  padding-right:0 !important;
+  padding-top:0 !important;
+  visibility:hidden;
+}
+
+a {
+	text-decoration: underline;
+}
+
+a img {
+	border: 0px none;
+}
+
+ul.basic {
+	list-style-image: initial;
+  list-style-position: initial;
+  list-style-type: none;
+}
+
+ul.basic li {
+	display: inline-block;
+}
+
+table, td {
+	font-size: 1em;
+}
+
